@@ -1,0 +1,2 @@
+F# ไม่มี Build-in Memoization ใช่ไหมครับ เจอโค้ดนี้ เขาใช้ Dictionary ใน Implement
+เลขสงสัยว่า เราสามารถใช้ Dictionary เป็น Practice สำหรับ Implement Memoization ได้ไหม หรือว่ามีวิธีอื่นที่ดีว่านี้
