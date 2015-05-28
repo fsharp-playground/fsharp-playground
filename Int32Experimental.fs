@@ -19,7 +19,6 @@ n
 -Int32.MinValue = Int32.MinValue
 
 
-
 Int32.MinValue
 -Int32.MinValue
 
@@ -28,4 +27,10 @@ n
 
 let n2:Int32 = Int32.MaxValue + 10
 n2
+
+let n1:Int32 = -Int32.MaxValue
+let n2:Int32 = -Int32.MinValue
+
+n1 = Int32.MinValue
+n2 = Int32.MinValue
 
